@@ -1,5 +1,5 @@
 export default {
-  /* 
+  /*
   button: https://formkit.com/inputs/button#sections
   submit: https://formkit.com/inputs/submit#sections
   */
@@ -19,7 +19,7 @@ export default {
     items-center
     $radius
     px-$spacing(7,*)
-    py-$spacing(2,*)
+    py-$spacing(0,*)
     outline-none
     text-$colorTemperature-$colorTemperatureStrength
     border
